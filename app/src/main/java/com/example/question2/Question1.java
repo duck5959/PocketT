@@ -18,7 +18,7 @@ public class Question1 extends AppCompatActivity {
 
         btn1 = findViewById(R.id.btn1);
         btn2 = findViewById(R.id.btn2);
-        btn3= findViewById(R.id.btn3);
+
 
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override
