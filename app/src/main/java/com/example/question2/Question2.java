@@ -12,6 +12,9 @@ public class Question2 extends AppCompatActivity {
     Button btnPre, btnNext;
     ImageView imageView;
 
+    //12213
+
+
     int index;
 
     int [] jjanImg = {R.drawable.jjang1,R.drawable.jjang2,R.drawable.jjang3};
